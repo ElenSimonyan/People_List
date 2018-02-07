@@ -1,0 +1,29 @@
+.main {
+    display: inline-block;
+    text-align: center;
+    margin: 16px;
+}
+.main ul {
+    text-align: left;
+}
+.main h2 {
+    text-align: center;
+    color: cadetblue;
+}
+.main form input{
+    outline: none;
+    border: 1px solid darkcyan;
+    color: darkcyan;
+    padding: 7px;
+    border-radius: 5px;
+    background-color: antiquewhite;
+}
+.main form button {
+    padding: 7px;
+    border: none;
+    outline: none;
+    color: antiquewhite;
+    margin-left: 10px;
+    background-color: cadetblue;
+    border-radius: 5px;
+}
